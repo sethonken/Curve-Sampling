@@ -1,5 +1,7 @@
 Sampling
 
+To start, go to "Release" -> "Sampling"
+
 This program can create curve samples based on line inputs from the user. To use the program,
 create a line by defining two points (by mouse click). After all lines have been made, the next click 
 will define a point on a curve that passes through the intersections from line 1 and the intersections
